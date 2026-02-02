@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Danish
 
-I’m a **Software / Backend Engineer** who builds scalable systems at the intersection of **cloud infrastructure, data platforms, and AI-powered products**.
+I’m a **Software / Backend Engineer** who builds scalable systems at the intersection of **cloud infrastructure, data platforms, and AI-powered products**.  
+
+📚 I’m currently pursuing a **Master’s in Cloud Engineering at the University of Maryland (UMD)**.
 
 I care about:
 - Systems that **scale without surprises**
